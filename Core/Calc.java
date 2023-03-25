@@ -16,6 +16,7 @@ public class Calc {
    public void setY(int value) {
        super.y = value;
    }
+   
     public static void(){
         switch(op) {
             case '+': ans = num1 + num2;
